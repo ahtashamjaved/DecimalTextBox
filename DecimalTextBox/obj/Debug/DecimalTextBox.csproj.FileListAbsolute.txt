@@ -1,0 +1,5 @@
+E:\Google Drive3\Extra\Own Office Data\Projects\Custom Controls\DecimalTextBox\DecimalTextBox\bin\Debug\DecimalTextBox.dll
+E:\Google Drive3\Extra\Own Office Data\Projects\Custom Controls\DecimalTextBox\DecimalTextBox\bin\Debug\DecimalTextBox.pdb
+E:\Google Drive3\Extra\Own Office Data\Projects\Custom Controls\DecimalTextBox\DecimalTextBox\obj\Debug\DecimalTextBox.csprojResolveAssemblyReference.cache
+E:\Google Drive3\Extra\Own Office Data\Projects\Custom Controls\DecimalTextBox\DecimalTextBox\obj\Debug\DecimalTextBox.dll
+E:\Google Drive3\Extra\Own Office Data\Projects\Custom Controls\DecimalTextBox\DecimalTextBox\obj\Debug\DecimalTextBox.pdb
